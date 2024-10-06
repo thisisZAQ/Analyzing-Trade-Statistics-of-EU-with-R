@@ -1,1 +1,2 @@
-# Analyzing-Trade-Statistics-of-EU-with-R
+# Exploring EU Trade Statistics Using DBnomics API in R
+This project focuses on analyzing European Union (EU) trade statistics by leveraging the DBnomics API within the R programming environment. DBnomics offers access to a wealth of global economic data from multiple providers such as Eurostat, IMF, and OECD. By retrieving and visualizing export and import data, this project aims to uncover trends and patterns in EU trade performance, particularly in relation to other industrialized countries. Through dynamic visualizations and statistical analysis, the project seeks to offer insights into the EU’s global trade competitiveness and economic interactions.
